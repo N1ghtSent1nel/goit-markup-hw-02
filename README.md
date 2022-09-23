@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-homework 2
+# goit-markup-hw-01
+goit 1st homework HTML CSS
