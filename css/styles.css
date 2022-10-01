@@ -85,6 +85,11 @@ body {
   cursor: pointer;
 }
 
+.hero-button:hover,
+hero-button:active {
+  background-color: #188ce8;
+}
+
 /* Features styles */
 
 .hidden-title {
